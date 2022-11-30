@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7a3e6b36","path":"/frantmatter.html","title":"页面的标题","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"页面的标题","description":"页面的描述"},"excerpt":"","headers":[],"git":{"updatedTime":1669801342000,"contributors":[{"name":"王海","email":"wanghai@yiliyili.com.cn","commits":1}]},"filePathRelative":"frantmatter.md"}');export{t as data};
