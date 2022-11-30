@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,a as r}from"./app.7130c605.js";const n={},c=r("h1",null,"frantmatter",-1),o=[c];function _(s,l){return e(),a("div",null,o)}const m=t(n,[["render",_],["__file","frantmatter.html.vue"]]);export{m as default};

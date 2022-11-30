@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/bar/\",\"lang\":\"zh-CN\",\"title\":\"你好， VuePress ！\",\"description\":\"这是我的第一个 VuePress 站点\",\"head\":[],\"locales\":{\"/\":{\"lang\":\"en-US\",\"title\":\"VuePress\",\"description\":\"Vue-powered Static Site Generator\"},\"/zh/\":{\"lang\":\"zh-CN\",\"title\":\"VuePress\",\"description\":\"Vue 驱动的静态网站生成器\"}}}")
